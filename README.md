@@ -4,7 +4,7 @@ I code in primarily C#, Rust, and C++, but am very versed in Python & Javascript
 
 I work on many different passion projects, and am currently learning C++.
 
-I can't commit much due to personal roadblocks, but i host my own gitea server at [git.zephyros1938.org](git.zephyros1938.org), so i might be more active there!
+I can't commit much due to personal roadblocks, but i host my own gitea server at [git.zephyros1938.org](https://git.zephyros1938.org), so i might be more active there!
 
 Cheetah Blue.
 
