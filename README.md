@@ -1,4 +1,4 @@
-Hi, I’m @Zephyros1938
+💚😼 Hi! Im Zephyros1938 founder of the Zephyros1938 development team!
 
 I code in primarily C#, Rust, and C++, but am very versed in Python & Javascript, along with NodeJS.
 
