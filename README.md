@@ -1,12 +1,8 @@
 💚😼 Hi! Im Zephyros1938 founder of the Zephyros1938 development team!
 
-I code in primarily C#, Rust, and C++, but am very versed in Python & Javascript, along with NodeJS.
+I code in primarily C/C++, Rust, and C#, but am very versed in Python & Javascript, along with NodeJS.
 
 I work on many different passion projects, and am currently learning C++.
-
-I can't commit much due to personal roadblocks, but i host my own gitea server at [git.zephyros1938.org](https://git.zephyros1938.org), so i might be more active there!
-
-Cheetah Blue.
 
 <!---
 Zephyros1938/Zephyros1938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
